@@ -39,6 +39,7 @@
 #my-avatar {
   /*border: 1px solid red;標記用排版完可去掉*/
   float:left;
+  margin-right: 20px;
 }
 #my-avatar img{
   width: 200px;
